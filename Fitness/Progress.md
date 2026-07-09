@@ -3,7 +3,6 @@
 Track your workout consistency.
 
 ---
-
 # 🟢 Today's Workout
 
 ```dataview
@@ -15,7 +14,6 @@ WHERE date = date(today)
 ```
 
 ---
-
 # 📅 This Week
 
 ```dataview
@@ -29,7 +27,6 @@ SORT date ASC
 ```
 
 ---
-
 # 📆 This Month
 
 ```dataview
@@ -43,7 +40,6 @@ SORT date ASC
 ```
 
 ---
-
 # 📖 Recent Workout Logs
 
 ```dataview

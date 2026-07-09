@@ -30,7 +30,7 @@ Welcome, **Mohit**. Don't be a bitch!!!
   
 # 📋 Weekend Checklist  
   
-- [[Checklists/Weekend Checklist]]  
+- [[Checklists/📋 Weekend Checklist]]  
   
 ---  
   

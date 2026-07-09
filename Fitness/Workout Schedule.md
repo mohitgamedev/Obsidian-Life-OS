@@ -3,7 +3,6 @@
 This page defines the workout split for each day of the week.
 
 ---
-
 # Monday — Chest & Shoulders
 
 ## Warm-up
@@ -17,7 +16,6 @@ This page defines the workout split for each day of the week.
 - Triceps
 
 ---
-
 # Tuesday — Back & Biceps
 
 ## Warm-up
@@ -31,7 +29,6 @@ This page defines the workout split for each day of the week.
 - Forearms
 
 ---
-
 # Wednesday — Cardio, Abs & Legs
 
 ## Warm-up
@@ -45,7 +42,6 @@ This page defines the workout split for each day of the week.
 - Legs
 
 ---
-
 # Thursday — Chest & Shoulders
 
 ## Warm-up
@@ -59,7 +55,6 @@ This page defines the workout split for each day of the week.
 - Triceps
 
 ---
-
 # Friday — Back & Biceps
 
 ## Warm-up
@@ -73,7 +68,6 @@ This page defines the workout split for each day of the week.
 - Forearms
 
 ---
-
 # Saturday — Cardio, Abs & Legs
 
 ## Warm-up
