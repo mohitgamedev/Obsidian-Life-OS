@@ -44,7 +44,26 @@ tR += await tp.file.include(`[[Templates/Workout/${day}]]`);
 %>
 #### Workout Notes
 
--
+
+---
+
+# 🍅 Focus Session
+
+## Deep Work
+
+- [ ] Session 1 (25 min)
+- [ ] Break (5 min)
+
+- [ ] Session 2 (25 min)
+- [ ] Break (5 min)
+
+- [ ] Session 3 (25 min)
+- [ ] Break (5 min)
+
+- [ ] Session 4 (25 min)
+
+> Goal for today's focus:
+
 
 ---
 

@@ -8,5 +8,6 @@
   },
   "attachmentFolderPath": "Attachments",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "hidden"
 }

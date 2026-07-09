@@ -1,0 +1,60 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "periodic-notes:open-daily-note",
+      "icon": "calendar-day",
+      "name": "Periodic Notes: Open daily note",
+      "mode": "any"
+    },
+    {
+      "id": "periodic-notes:open-weekly-note",
+      "icon": "calendar-week",
+      "name": "Periodic Notes: Open weekly note",
+      "mode": "any"
+    },
+    {
+      "id": "periodic-notes:open-monthly-note",
+      "icon": "calendar-month",
+      "name": "Periodic Notes: Open monthly note",
+      "mode": "any"
+    },
+    {
+      "id": "periodic-notes:open-quarterly-note",
+      "icon": "calendar-quarter",
+      "name": "Periodic Notes: Open quarterly note",
+      "mode": "any"
+    },
+    {
+      "id": "periodic-notes:open-yearly-note",
+      "icon": "calendar-year",
+      "name": "Periodic Notes: Open yearly note",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
