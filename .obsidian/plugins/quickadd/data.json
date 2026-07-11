@@ -1,5 +1,111 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "a1e4c8d2-1f3b-4a6e-9c2d-5b7e8f1a2c3d",
+      "name": "✅ Quick Task → Action Center",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Tasks/Action Center.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "🟠 This Week",
+        "insertAtEnd": true,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "b2f5d9e3-2a4c-4b7f-8d3e-6c8f9a2b3d4e",
+      "name": "📖 Reading Note → Reading Log",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Reading/Reading Log.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "- **{{DATE:YYYY-MM-DD}}**: {{VALUE}}"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "📝 Session Notes",
+        "insertAtEnd": true,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "c3a6e0f4-3b5d-4c8a-9e4f-7d9a0b3c4e5f",
+      "name": "🚀 1% Better → Today's Note",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "- {{VALUE}}"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "🚀 1% Better",
+        "insertAtEnd": true,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
   "inputPrompt": "single-line",
   "persistInputPromptDrafts": true,
   "useSelectionAsCaptureValue": true,

@@ -40,27 +40,33 @@ hide due date
 short mode
 limit 5
 ```
----
 
-# 📊 This Week
+---
+# 🍅 Focus
 
 ```dataview
 TABLE WITHOUT ID
-date AS "Day",
-choice(meditation,"✅","❌") AS "🧘",
-choice(exercise,"✅","❌") AS "💪",
-choice(reading,"✅","❌") AS "📖",
-choice(better,"✅","❌") AS "🚀"
-FROM "Journal/Daily"
-WHERE week = dateformat(date(today),"kkkk-'W'WW")
-SORT date ASC
+project AS "Project",
+task AS "Task",
+duration_min AS "Minutes"
+FROM "Focus/Sessions"
+WHERE date = date(today)
+SORT start_time ASC
 ```
+
+- [[Focus/Focus Timer]] — start a session
+- [[Focus/Focus Dashboard]] — weekly / monthly / quarterly totals
+- [[Focus/Archive Tool]] — archive a completed year
 
 ---
 
-# 📋 Weekend Checklist
+# 🗂 Projects
 
-- [[Checklists/Weekend Checklist]]
+- [[Projects/ITAM Portal]]
+- [[Projects/Kenvue Migration]]
+- [[Projects/VCreaTek Pulse]]
+- [[Projects/PKI & Reverse Proxy]]
+- [[Projects/Observability Stack]]
 
 ---
 
@@ -75,6 +81,18 @@ SORT date ASC
 
 - [[Habits/Habit Dashboard]]
 - [[Habits/Habit Definitions]]
+
+---
+
+# 📚 Reading
+
+- [[Reading/Reading Log]]
+
+---
+
+# 🩺 Vault Health
+
+- [[Meta/Vault Health Check]]
 
 ---
 

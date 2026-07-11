@@ -15,8 +15,6 @@
 
 - [ ] Google Photos sort & Back
 - [ ] Check all the things to be backed up from google
-	- [ ] fghfgh
-	- [ ] fghfgh
 
 ---
 
