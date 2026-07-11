@@ -64,6 +64,20 @@ WHERE date = date(this.date)
 SORT start_time ASC
 ```
 
+## Deep Work
+
+- [ ] Session 1 (25 min)
+- [ ] Break (5 min)
+
+- [ ] Session 2 (25 min)
+- [ ] Break (5 min)
+
+- [ ] Session 3 (25 min)
+- [ ] Break (5 min)
+
+- [ ] Session 4 (25 min)
+
+> Goal for today's focus:
 
 
 ---
